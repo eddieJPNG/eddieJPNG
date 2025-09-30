@@ -12,6 +12,11 @@ no mundo do Back-end.
 
 ## Estatisticas
 
+<img src="https://github-readme-stats.vercel.app/api?username=EddieJPNG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="estatisticas">
+
+## Linguagens
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejpng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="languages">
 
 <h1><i> Teste </i></h1>
 
