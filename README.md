@@ -18,13 +18,4 @@ no mundo do Back-end.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejpng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="languages">
 
-<h1><i> Teste </i></h1>
-
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java icon" width="100px" height="100px" href="https://duelingnexus.com/home">
-
-<a href="https://duelingnexus.com/home"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java icon" target="_blank" rel="noopener noreferrer" height="50px" width="50px"></a>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" width="50px" />
-
 </p>
