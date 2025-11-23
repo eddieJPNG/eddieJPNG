@@ -14,7 +14,14 @@ no mundo do Back-end.
  
 ### Estatisticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=EddieJPNG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="estatisticas">
+
+<img
+  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=eddieJPNG&include_all_commits=true&count_private=true&cache_seconds=60&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats"
+/>
+
+
+
 
 ### Linguagens
 
