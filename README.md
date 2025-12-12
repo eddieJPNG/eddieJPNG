@@ -1,32 +1,45 @@
-<p style="text-align: left; display: flex; justify-content: left; align-items: left; height: 10vh; margin: 0;">
+# 👋 Olá! Eu sou o Edson  
+### `Hello, I am Edson`
 
-# Olá, eu sou Edson!
-## `Hello, I am Edson`
+**Desenvolver Full-Stack**
 
-*`Phyton and front-end initial dev`*
+Atualmente curso **Sistemas de Computação na UESPI – Parnaíba**.  
+Estou me aprofundando no universo da tecnologia, sempre buscando evoluir, aprender ferramentas novas e entender como tudo funciona de verdade.
 
-Estou cursando "Sistemas de computação" na Uespi Parnaíba, estou iniciando meu aprofundamento na área da tecnologia, buscando sempre conhecimento e a novas tecnologias.
-Tenho base na programação front-end com o uso de **Html**, **Css** e **Javascript**, mas estou iniciando uma nova jornada para o aprendizado e prática de **Phyton** para embarcar
-no mundo do Back-end.
+Tenho base em **HTML**, **CSS** e **JavaScript** para front-end.  
+Agora estou trilhando uma nova jornada com **Python**, focado em entrar no mundo do **Back-end**.
 
-`I am studying Computer Systems at UESPI in Parnaíba. I am beginning to deepen my knowledge in the field of technology, always seeking to learn more and explore new technologies. I have a foundation in front-end programming using HTML, CSS, and JavaScript, but I am now starting a new journey to learn and practice Python, aiming to step into the world of back-end development.`
+---
 
- 
-### Estatisticas
+## 📊 Estatísticas
 
+<div>
+  <img 
+    alt="GitHub Stats" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=eddieJPNG&count_private=true&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estatísticas"
+  />
+</div>
 
-<img
-  alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=eddieJPNG&include_all_commits=true&count_private=true&cache_seconds=60&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats"
-/>
+---
 
+## 🧠 Tecnologias que uso e estudo
 
+<div>
+  <img 
+    alt="Top Languages" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddieJPNG&layout=compact&theme=tokyonight&custom_title=Linguagens"
+  />
+</div>
 
+---
 
-### Linguagens
+## 🚀 Sobre mim
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejpng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="languages">
+- Curioso por ciência, código e problemas difíceis  
+- Amante de interfaces simples e lógicas bem feitas
 
+---
 
-
-</p>
+### 💬 Sempre aberto para conexões e novos projetos!
