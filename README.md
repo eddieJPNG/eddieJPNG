@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Edson  
+# 👋 Olá! Eu sou Edson  
 ### `Hello, I am Edson`
 
 **Desenvolver Full-Stack**
