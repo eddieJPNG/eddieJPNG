@@ -11,6 +11,14 @@ Agora estou trilhando uma nova jornada com **Python**, focado em entrar no mundo
 
 ---
 
+## 🌟 Outras áreas de interesse
+
+🔐Blockchain/Web3
+📱Mobile development
+📁Data science
+
+---
+
 ## 📊 Estatísticas
 
 <div>
