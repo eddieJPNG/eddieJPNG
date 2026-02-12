@@ -22,11 +22,11 @@ Agora estou trilhando uma nova jornada com **Python**, focado em entrar no mundo
 ## 📊 Estatísticas
 
 <div>
-  <img 
-    alt="GitHub Stats" 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=eddieJPNG&count_private=true&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estatísticas"
-  />
+<img
+  height="180"
+  src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=eddieJPNG&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
+/>
+
 </div>
 
 ---
