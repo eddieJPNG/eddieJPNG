@@ -2,10 +2,15 @@
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo0cnVwbWZ2OWFuZXNjb2thdGVtNHNlcDBpajV1NmRqbnc2djlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif"  />
 </div>
 
+<p align="center">
+Nostalgia | 懐かしい
+</p>
+
+
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="200" alt="linkedin logo"  />
 
 </div>
 
@@ -26,7 +31,25 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  📚Computer Systems student at UESPI<br><br>
+  🧠Back-end developer focused on building RESTful APIs, with an emphasis on testing and efficient system integration<br><br>
+  ⚡Web systems development with database integration using FastAPI and MySQL<br><br>
+  🚀Committed to clean code and continuous learning<br><br>
+
+  
+</p>
+
+<h1></h1>
+
+<p align="left">
+  📚Estudante de sistemas de computação na UESPI<br><br>
+  🧠Desenvolvedor back-end focado na criação de APIs REST com Foco em testes e integração eficiente de sistemas<br><br>
+  ⚡Desenvolvimento de sistemas webs com integração de banco de dados, em FastAPI e MySql.<br><br>
+  🚀Foco no código limpo e aprendizado contínuo sempre!<br><br>
+
+  
+</p>
 
 ###
 
