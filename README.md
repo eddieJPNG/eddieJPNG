@@ -1,103 +1,81 @@
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo0cnVwbWZ2OWFuZXNjb2thdGVtNHNlcDBpajV1NmRqbnc2djlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif"  />
+
+<!-- Scanline GIF with circular crop via CSS workaround -->
+<img height="200" width="200" style="border-radius:50%;border:2px solid #bd93f9;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo0cnVwbWZ2OWFuZXNjb2thdGVtNHNlcDBpajV1NmRqbnc2djlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif" />
+
+<br/>
+
+```
+N O S T A L G I A  ·  懐かしい
+```
+
 </div>
 
-<p align="center">
-Nostalgia | 懐かしい
-</p>
-
-
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="200" alt="linkedin logo"  />
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=flat-square)](https://www.linkedin.com/in/edson-rocha-da-silva-300030379/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-eddieJPNG-bd93f9?style=flat-square&logo=github&logoColor=white)](https://github.com/eddieJPNG)
+&nbsp;
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eddieJPNG.eddieJPNG&style=flat-square&color=bd93f9)
 
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eddieJPNG.eddieJPNG&"  />
-</div>
+## `◈` **about.exe**
 
-###
+```python
+eddie = {
+    "education": "Sistemas de Computação @ UESPI",
+    "focus"    : "Back-end · RESTful APIs · Testing · System Integration",
+    "stack"    : ["FastAPI", "MySQL", "Python", "Node.js"],
+    "values"   : ["clean code", "continuous learning", "efficient design"],
+}
+```
 
-<h1 align="center">hey there 👋</h1>
-<h2 align="center">Olá, e aí👋</h2>
+> 📚 Estudante de **Sistemas de Computação** na UESPI  
+> 🧠 Dev back-end focado em **APIs RESTful** — ênfase em testes e integração eficiente  
+> ⚡ Sistemas web com **FastAPI** + **MySQL**  
+> 🚀 Código limpo e aprendizado contínuo, sempre  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
-<h4 align="left">👩‍💻  Sobre mim</h4>
-
-
-###
-
-<p align="left">
-  📚Computer Systems student at UESPI<br><br>
-  🧠Back-end developer focused on building RESTful APIs, with an emphasis on testing and efficient system integration<br><br>
-  ⚡Web systems development with database integration using FastAPI and MySQL<br><br>
-  🚀Committed to clean code and continuous learning<br><br>
-
-  
-</p>
-
-<h1></h1>
-
-<p align="left">
-  📚Estudante de sistemas de computação na UESPI<br><br>
-  🧠Desenvolvedor back-end focado na criação de APIs REST com Foco em testes e integração eficiente de sistemas<br><br>
-  ⚡Desenvolvimento de sistemas webs com integração de banco de dados, em FastAPI e MySql.<br><br>
-  🚀Foco no código limpo e aprendizado contínuo sempre!<br><br>
-
-  
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools </h3>
-<h4 align="left">🛠 Linguagens e tecnologias </h4>
-
-###
+## `◈` **stack.json**
 
 <div align="left">
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
-          
-  
-                  
-          
-  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-<h4 align="left">🔥   Meus Status :</h4>
-
-###
+## `◈` **stats.log**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eddieJPNG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img src="https://streak-stats.demolab.com?user=eddieJPNG&locale=en&mode=daily&theme=tokyonight-duo&hide_border=true&border_radius=4" height="200" alt="GitHub Streak Stats" />
+
 </div>
 
-###
+---
+
+<div align="center">
+
+```
+// BUILD WITH 懐かしい · NOSTALGIA.EXE · EOF
+```
+
+</div>
