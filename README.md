@@ -65,7 +65,7 @@ class EdsonRocha:
         return "Construir soluções escaláveis, modulares e com código limpo."
 ```
 
-> 🎓 **Tecnólogo em Sistemas de Computação** — Universidade Estadual do Piauí (UESPI)
+> 🎓 **Tecnólogico em Sistemas de Computação** — Universidade Estadual do Piauí (UESPI)
 > 🧠 **Desenvolvedor Back-end** focado em **APIs RESTful**, integração de sistemas e arquitetura modular
 > ⚡ Sistemas web com **FastAPI · Flask · NestJS · SQLAlchemy**
 > ⛓️ Explorando o universo **Web3** — Dapps em **Solidity** e **Move (Sui)**
