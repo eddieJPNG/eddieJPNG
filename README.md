@@ -5,8 +5,7 @@
 
 <div align="center">
 
-<!-- ─── Header WAVE ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:bd93f9,100:ff79c6&height=200&section=header&text=EDSON%20ROCHA&fontSize=70&fontColor=1a1b26&fontAlignY=38&desc=NOSTALGIA.EXE%20%E2%80%A2%20Back-end%20%26%20Blockchain%20Dev&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,50:ff79c6,100:bd93f9&height=120&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=24&fontColor=1a1b26&animation=twinkling&fontAlignY=38" />
 
 <!-- ─── Avatar Scanline ─── -->
 <img align="center" height="180" width="180" style="border-radius:50%;border:3px solid #bd93f9;box-shadow:0 0 30px #ff79c6,0 0 60px #bd93f9;"
