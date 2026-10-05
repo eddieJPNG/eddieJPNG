@@ -134,11 +134,9 @@ class EdsonRocha:
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/activity-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/activity-graph.svg" />
-  <img alt="Activity Graph" src="./dist/activity-graph.svg" width="100%" />
-</picture>
+<div>
+  <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="gengar" height="210px" width="210px"/>
+</div>
 
 </div>
 
