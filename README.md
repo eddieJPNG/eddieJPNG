@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ─── Header WAVE ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:ff79c6,100:8be9fd&height=200&section=header&text=EDSON%20ROCHA&fontSize=70&fontColor=1a1b26&animation=twinkling&fontAlignY=38&desc=NOSTALGIA.EXE%20%E2%80%A2%20Back-end%20%26%20Blockchain%20Dev&descAlignY=60&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:bd93f9,100:ff79c6&height=200&section=header&text=EDSON%20ROCHA&fontSize=70&fontColor=1a1b26&fontAlignY=38&desc=NOSTALGIA.EXE%20%E2%80%A2%20Back-end%20%26%20Blockchain%20Dev&descAlignY=60&descSize=18" />
 
 <!-- ─── Avatar Scanline ─── -->
 <img align="center" height="180" width="180" style="border-radius:50%;border:3px solid #bd93f9;box-shadow:0 0 30px #ff79c6,0 0 60px #bd93f9;"
@@ -131,11 +131,15 @@ class EdsonRocha:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=eddieJPNG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="./images/trophy.svg" alt="GitHub Trophies" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eddieJPNG&theme=tokyo-night&bg_color=1a1b26&color=bd93f9&line=ff79c6&point=8be9fd&area=true&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/activity-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/activity-graph.svg" />
+  <img alt="Activity Graph" src="./dist/activity-graph.svg" width="100%" />
+</picture>
 
 </div>
 
