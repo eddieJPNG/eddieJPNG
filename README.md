@@ -134,14 +134,14 @@ class EdsonRocha:
 
 <br/><br/>
 
-<table>
+<table align="center" style="margin: 0 auto; text-align: center;">
   <tr>
-    <td><img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="gengar" height="160" width="160"/></td>
-    <td><img src="https://deltarune.wiki/images/Knight_battle_afterimage.gif?cb=plte1g&h=thumb.php&f=Knight_battle_afterimage.gif" alt="knight" height="160" width="160"/></td>
-    <td><img src="https://www.fightersgeneration.com/nz4/char/adachi-p4au-walk-backward.gif" alt="adachi" height="160" width="160"/></td>
-    <td><img src="https://deltarune.wiki/images/Pink_battle_idle.gif?cb=4bs0th&h=thumb.php&f=Pink_battle_idle.gif" alt="pink" height="160" width="160"/></td>
-    <td><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fff66c2b-2718-44ef-8f83-3cd2763d6838/dfnkphg-eef02296-d5ef-4283-88ca-497d781906af.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mZmY2NmMyYi0yNzE4LTQ0ZWYtOGY4My0zY2QyNzYzZDY4MzgvZGZua3BoZy1lZWYwMjI5Ni1kNWVmLTQyODMtODhjYS00OTdkNzgxOTA2YWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7AkJyzeLDX9pMiyz4BOnJlvKqZQFby9IN8LNkyEwr7I" alt="rayquaza" height="160" width="160"/></td>
-    <td><img src="https://media.giphy.com/media/h7AOuFJNsBTwI/giphy.gif" alt="sceptile-mega" height="160" width="160"/></td>
+    <td><img src="https://media.tenor.com/6CJ0tDKbRKgAAAAj/pokemon-gengar.gif" alt="gengar" height="160" width="160"/></td>
+    <td><img src="https://media.tenor.com/XGKMLiIY4mgAAAAj/sprite-pokemon.gif" alt="sceptile" height="160" width="160"/></td>
+    <td><img src="https://media.tenor.com/nmJkl9aeanQAAAAj/gardevoir.gif" alt="gardevoir" height="180" width="160"/></td>
+    <td><img src="https://media.tenor.com/UI9IkhLQ3jwAAAAi/pokemon.gif" alt="rayquaza" height="160" width="160"/></td>
+    <td><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ce70c8-7180-4823-ad03-5f29f2594215/dfpqj8a-779aca9d-1989-4f5d-a805-0499bd0c7d10.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NmNlNzBjOC03MTgwLTQ4MjMtYWQwMy01ZjI5ZjI1OTQyMTUvZGZwcWo4YS03NzlhY2E5ZC0xOTg5LTRmNWQtYTgwNS0wNDk5YmQwYzdkMTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-bu3J9yQoEYY0IzDrOFnrM-h8KfHwF6v4a7YYEEWwoM" alt="meowscarada" height="180" width="160"/></td>
+    <td><img src="https://media.tenor.com/hynnhbh2abUAAAAj/giratina.gif" alt="giratina" height="160" width="160"/></td>
   </tr>
 </table>
 
@@ -294,4 +294,3 @@ Aplicação web para gerenciamento de **convênios de estágio da UESPI**, com p
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,50:ff79c6,100:bd93f9&height=120&section=footer&text=THANKS%20FOR%20VISITING&fontSize=24&fontColor=1a1b26&animation=twinkling&fontAlignY=70" />
 
 </div>
-
