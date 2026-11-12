@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,50:ff79c6,100:bd93f9&height=120&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=24&fontColor=1a1b26&animation=twinkling&fontAlignY=38" />
+<img width="100%"  src="public/eddiewav-banner.png" />
 
 <!-- ─── Avatar Scanline ─── -->
 <img align="center" height="180" width="180" style="border-radius:50%;border:3px solid #bd93f9;box-shadow:0 0 30px #ff79c6,0 0 60px #bd93f9;"
